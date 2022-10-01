@@ -28,10 +28,10 @@ This will start the app on your phone and you are ready to play.
 
 
 ### screenshots
-![Start the game ](./screenshots/down1.jpeg)
-![entered number ](./screenshots/d1.2.jpeg)
-![wrong instruction ](./screenshots/down2.jpeg)
-![wrong instruction ](./screenshots/down3.jpeg)
+![Start the game ](./screenshots/down1.jpg)
+![entered number ](./screenshots/d1.2.jpg)
+![wrong instruction ](./screenshots/down2.jpg)
+![wrong instruction ](./screenshots/down3.jpg)
 
 
 
