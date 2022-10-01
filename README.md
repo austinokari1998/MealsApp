@@ -28,13 +28,9 @@ This will start the app on your phone and you are ready to play.
 
 
 ### screenshots
-* original categories home screen
 ![Start the game ](./screenshots/down1.jpg)
-* Meals in the specific category
 ![entered number ](./screenshots/d1.2.jpg)
-* The meal ingredients and recipe
 ![wrong instruction ](./screenshots/down2.jpg)
-
 ![wrong instruction ](./screenshots/down3.jpg)
 
 
